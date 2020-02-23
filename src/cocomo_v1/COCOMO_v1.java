@@ -18,7 +18,7 @@ public class COCOMO_v1 {
         // TODO code application logic here
         //test
         
-        prueba 2
+      //  prueba 2
     }
     
 }
