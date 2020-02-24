@@ -742,7 +742,7 @@ public class principal extends javax.swing.JFrame {
                 .addGap(127, 127, 127))
         );
 
-        jPanel16.setBackground(new java.awt.Color(153, 204, 255));
+        jPanel16.setBackground(new java.awt.Color(204, 153, 0));
 
         jLabel57.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel57.setText("EMPOTRADO");
