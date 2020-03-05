@@ -17,7 +17,7 @@ public class COCOMO81 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        hola como estas
+        //hola como estas
     }
     
 }
