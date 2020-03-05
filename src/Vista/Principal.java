@@ -33,7 +33,7 @@ public class Principal extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jMenu1.setText("File");
+        jMenu1.setText("Información");
         jMenuBar1.add(jMenu1);
 
         jMenu2.setText("Edit");
